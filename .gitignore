@@ -1,3 +1,7 @@
+# custom to interestitial
+*~
+\#*\#
+
 # from docker-jitsi-meet
 *.swp
 .env
